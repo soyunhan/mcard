@@ -25,6 +25,6 @@
   },
   "include": [
     "src",
-    "tsconfig.paths.json"
+    "tsconfig.paths.js"
   ]
 }
